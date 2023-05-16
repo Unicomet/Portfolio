@@ -17,12 +17,12 @@ y muestro los clientes más grandes.
 ![](/images/PrimerInforme.png)
 
 
-
-
 Análisis Exploratorio de dataset de pingüinos (https://shorturl.at/nuGNX)
 → Hice un análisis exploratorio incluyendo mucho de mi aprendizaje en estádistica y probabilidad, 
 realicé análisis univariado, multivariado y observe las correlaciones entre variables usando un 
 mapa de calor y gráficas de dispersión.
+
+
 
 Análisis exploratorio de sobrevivientes al accidente del Titanic (https://shorturl.at/qwxBO)
 → Mi primer análisis exploratorio, hago análisis univariado y multivariado
