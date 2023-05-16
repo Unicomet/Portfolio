@@ -28,6 +28,6 @@ mapa de calor y gráficas de dispersión.
 
 ## Análisis exploratorio de sobrevivientes al accidente del Titanic (https://shorturl.at/qwxBO)
 → Mi primer análisis exploratorio, hago análisis univariado y multivariado
-![](/images/titnaic_survived.png)
+![](/images/titanic_survived.png)
 
 
