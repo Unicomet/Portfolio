@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio of Guillermo Martínez Montano
 
-## Informe de asistencia en una empresa con POWERBI
+## Informe de asistencia en una empresa con POWERBI (https://shorturl.at/dhzN4)
 → Hice limpieza de datos, use: relaciones, filtros e hice un informe y dashboard indicando 
 la asistencia en modalidad presencial, trabajo remoto e inasistencias por enfermedad. 
 
@@ -29,6 +29,5 @@ mapa de calor y gráficas de dispersión.
 ## Análisis exploratorio de sobrevivientes al accidente del Titanic (https://shorturl.at/qwxBO)
 → Mi primer análisis exploratorio, hago análisis univariado y multivariado
 ![](/images/titnaic_survived.png)
-![](/images/titanic_sex.png)
 
 
