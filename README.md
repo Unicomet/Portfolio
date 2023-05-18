@@ -1,5 +1,4 @@
-# Portfolio
-Portfolio of Guillermo Martínez Montano
+
 
 ## Informe de asistencia en una empresa con POWERBI (https://shorturl.at/dhzN4)
 → Hice limpieza de datos, use: relaciones, filtros e hice un informe y dashboard indicando 
