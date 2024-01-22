@@ -6,13 +6,13 @@ Portfolio of Guillermo Martínez Montano
 → I implemented authentication with fingerprint, file persistency with Data Store with CRUD operations and a RecyclerView to show the bookmarks in an efficient way. I used viewmodels, fragments and one activity for the UI.  <br />
 → Made with Android SDK using androidJetpack.  <br />
 ![image](/images/home-bookmarks.png)
+![image](/images/edit-bookmark-bookmarks.png)
 
 ## Words [visit](https://azcuammx-my.sharepoint.com/:f:/g/personal/al2213031953_azc_uam_mx/EiZgaY3R5CpKiNSGNPo3n1QBx-IWE8PS0JQ0QjXlisTdlg?e=NbHImQ)
 → An Android app to give you words with certain initial letter .
 → I implemented recyclerViews for lists and navigation using one Activity and a Fragment using 
 component Navigation. I used viewmodel for the data and learn about the lifecycle, viewmodels and fragments.
 → Made with Android SDK using androidJetpack.
-![image](/images/home-bookmarks.png)
 
 
 ## Bank - Web app [visit](www.google.com)
