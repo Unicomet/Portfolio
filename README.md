@@ -1,6 +1,31 @@
 # Portfolio
 Portfolio of Guillermo Martínez Montano
 
+## MyBookmarks [click here](www.google.com)
+→ An Android app to make your bookmarks of books. 
+→I implemented authentication with fingerprint, file persistency with Data Store with CRUD operations 
+and a RecyclerView to show the bookmarks in an efficient way. I used viewmodels, fragments and one activity for the UI.
+→Made with Android SDK using androidJetpack.
+![image](/images/home-bookmarks.png)
+
+## Words [visit](www.google.com)
+→ An Android app to give you words with certain initial letter .
+→ I implemented recyclerViews for lists and navigation using one Activity and a Fragment using 
+component Navigation. I used viewmodel for the data and learn about the lifecycle, viewmodels and fragments.
+→ Made with Android SDK using androidJetpack.
+![image](https://github.com/Unicomet/Portfolio/assets/55819447/9422cc88-6694-484f-9a76-027a353beb4c)
+
+
+## Bank - Web app [visit](www.google.com)
+→ I implemented the frontend and backend with Java and JSP.
+→ Uses MVC architecture.
+![image](/images/home-banco.png)
+
+## Gym management system [visit](www.google.com)
+→ A management system for a gym
+→ Uses MVC architecture. Made with Java and Swing Framework
+![image](https://github.com/Unicomet/Portfolio/assets/55819447/a0e4c698-8792-4fd4-8f4c-e81884ff1d39)
+
 ## Informe de asistencia en una empresa con POWERBI (https://shorturl.at/dhzN4)
 → Hice limpieza de datos, use: relaciones, filtros e hice un informe y dashboard indicando 
 la asistencia en modalidad presencial, trabajo remoto e inasistencias por enfermedad. 
