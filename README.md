@@ -3,7 +3,7 @@ Portfolio of Guillermo Martínez Montano
 
 ## MyBookmarks [click here](www.google.com)
 → An Android app to make your bookmarks of books. 
-→I implemented authentication with fingerprint, file persistency with Data Store with CRUD operations 
+→ I implemented authentication with fingerprint, file persistency with Data Store with CRUD operations 
 and a RecyclerView to show the bookmarks in an efficient way. I used viewmodels, fragments and one activity for the UI.
 →Made with Android SDK using androidJetpack.
 ![image](/images/home-bookmarks.png)
