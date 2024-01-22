@@ -21,16 +21,16 @@ component Navigation. I used viewmodel for the data and learn about the lifecycl
 → Uses MVC architecture.
 ![image](/images/home-banco.png)
 
-## Gym management system [visit](www.google.com)
-→ A management system for a gym
-→ Uses MVC architecture. Made with Java and Swing Framework
-![image](https://github.com/Unicomet/Portfolio/assets/55819447/a0e4c698-8792-4fd4-8f4c-e81884ff1d39)
+## Gym management system [visit]()
+→ A management system for a gym.
+→ Uses MVC architecture. Made with Java and Swing Framework.
+![image](/images/login-gym.png)
+![image](/images/main-menu-gym.png)
+
 
 ## Informe de asistencia en una empresa con POWERBI (https://shorturl.at/dhzN4)
 → Hice limpieza de datos, use: relaciones, filtros e hice un informe y dashboard indicando 
 la asistencia en modalidad presencial, trabajo remoto e inasistencias por enfermedad. 
-
-
  ![](/images/HRAnalysis.png)
 
 
@@ -38,7 +38,6 @@ la asistencia en modalidad presencial, trabajo remoto e inasistencias por enferm
 → Hice el informe de ventas de una empresa, utilizando relaciones, filtros, medidas. 
 En el señalo las ventas segmentando por año y trimestre, por segmento de producto, por segmento de cliente, por región, por subcategoría de producto 
 y muestro los clientes más grandes.
-
 ![](/images/PrimerInforme.png)
 
 
