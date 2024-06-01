@@ -2,7 +2,7 @@
 export default function Card({children, title, image, url, alt}){
     
     return (
-        <div className="card w-auto bg-base-200 shadow-xl">
+        <div className="card w-auto bg-base-200 hover:shadow-2xl transition-shadow">
             <figure className="h-2/5"><img src={image} alt={alt} className="object-fill h-full w-full"/></figure>
             <div className="card-body">
                 <h2 className="card-title">{title}</h2>
