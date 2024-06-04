@@ -152,57 +152,6 @@ export default function App() {
               </li>
             </ul>
           </Card>
-          <Card
-            title="Official Website for Seismic Network UAM"
-            image={projectsSeismicNetworkImg}
-            url="https://puntozip.com.mx/uam-red-acelerografica/index.php"
-          >
-            A project that I did as an intern in Accelerographic Network UAM.
-            Uses HTML, CSS, Javascript and PHP.
-            <h3 className="font-bold">Features:</h3>
-            <ul className="list-disc list-inside">
-              <li>Uses custom maps from Google Maps API.</li>
-              <li>You can check raw data of seismic events or even graphs.</li>
-              <li>
-                You can check records of seismic events in an interactive map.
-              </li>
-              <li>Has a contact section where you can send emails.</li>
-            </ul>
-          </Card>
-          <Card
-            title="Official Website for Seismic Network UAM"
-            image={projectsSeismicNetworkImg}
-            url="https://puntozip.com.mx/uam-red-acelerografica/index.php"
-          >
-            A project that I did as an intern in Accelerographic Network UAM.
-            Uses HTML, CSS, Javascript and PHP.
-            <h3 className="font-bold">Features:</h3>
-            <ul className="list-disc list-inside">
-              <li>Uses custom maps from Google Maps API.</li>
-              <li>You can check raw data of seismic events or even graphs.</li>
-              <li>
-                You can check records of seismic events in an interactive map.
-              </li>
-              <li>Has a contact section where you can send emails.</li>
-            </ul>
-          </Card>
-          <Card
-            title="Official Website for Seismic Network UAM"
-            image={projectsSeismicNetworkImg}
-            url="https://puntozip.com.mx/uam-red-acelerografica/index.php"
-          >
-            A project that I did as an intern in Accelerographic Network UAM.
-            Uses HTML, CSS, Javascript and PHP.
-            <h3 className="font-bold">Features:</h3>
-            <ul className="list-disc list-inside">
-              <li>Uses custom maps from Google Maps API.</li>
-              <li>You can check raw data of seismic events or even graphs.</li>
-              <li>
-                You can check records of seismic events in an interactive map.
-              </li>
-              <li>Has a contact section where you can send emails.</li>
-            </ul>
-          </Card>
         </section>
       </div>
       <Footer></Footer>

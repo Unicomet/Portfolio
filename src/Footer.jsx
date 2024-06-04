@@ -44,7 +44,6 @@ export default function Footer() {
               className="fill-current"
             />
           </a>
-          <div> dsadas</div>
         </div>
       </nav>
     </footer>
