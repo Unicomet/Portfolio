@@ -23,10 +23,9 @@ export default function App() {
               Computer Engineer who loves developing software
             </h3>
             <p className="mt-2 md:mr-10 mb-6 text-lg xl:pr-48">
-              I am a <b>self-motivated</b> software engineer graduate with 1
-              year of professional experience, who loves to learn and has a
-              passion for software development to create things that are useful
-              for people.
+              I am a software engineer graduate with 3 years of work experience,
+              who loves to learn and has passion for software development
+              because I can create things that help people.
             </p>
             <div className="flex justify-center md:justify-start">
               <a
@@ -76,9 +75,44 @@ export default function App() {
         </h2>
         <section id="experience" className="xl:w-2/4 xl:mx-auto">
           <h3 className="font-bold text-lg">
+            Software Engineer at Distribuciones Cantilever. The focus of the
+            company is on IoT and Measuring solutions
+          </h3>
+          <h3 className="font-medium text-lg  mt-4">1 year</h3>
+          <ul className="list-disc list-inside mt-4">
+            <li>
+              Made a bluetooth manager to send commands and receive data from a
+              monitoring device for electrical infrastructure via Bluetooth Low
+              Energy, using binary serialization.
+              <ul className="list-disc list-inside mt-2">
+                <li>
+                  - I implemented CRC validation, data length validation, data
+                  codification and error handling from 0.
+                </li>
+                <li>
+                  - Reduced the number of connection failures by 80% and speed
+                  up the data transfer by 30%.
+                </li>
+              </ul>
+            </li>
+            <li>
+              Developed a transactions system for using microservices with
+              Spring Boot.
+            </li>
+            <li>
+              Improved load time of some dashboards up to 32% of a web app for
+              monitoring electrical infrastructure with more than 60 pages.
+            </li>
+            <li>
+              Developing bots that people use for integration and installation
+              of all products, using Java and Javascript. I reduced the Docker
+              images sizes by 70% and build times by 25%.
+            </li>
+          </ul>
+          <h3 className="font-bold text-lg mt-8">
             Paid Intern at UAM's Accelerographic Network (Seismic Network)
           </h3>
-          <h3 className="font-medium text-lg  mt-4">1 year (2023-2024)</h3>
+          <h3 className="font-medium text-lg  mt-4">1 year 6 months</h3>
           <ul className="list-disc list-inside mt-4">
             <li>
               I migrated the frontend of the application from old technologies
@@ -94,6 +128,13 @@ export default function App() {
               data in a MySQL database, improving the performance of consults.
             </li>
           </ul>
+
+          <h3 className="font-bold text-lg mt-8">Freelance</h3>
+          <h3 className="font-medium text-lg  mt-4">6 months</h3>
+          <ul className="list-disc list-inside mt-4">
+            <li>Made automations using Python.</li>
+            <li>Made systems for inventory management using Java</li>
+          </ul>
         </section>
         <h2 className="font-bold text text-4xl mb-12 text-center mt-24">
           Projects
@@ -102,6 +143,56 @@ export default function App() {
           id="projects"
           className="grid gap-6 md:grid-cols-2 xl:grid-cols-3 lg:gap-8 h-1/6"
         >
+          <Card
+            title="Tutor UAM API"
+            url="https://github.com/Unicomet/tutor-uam-api"
+          >
+            An API Rest for a tutorship scheduling app
+            <h3 className="font-bold">Features:</h3>
+            <ul className="list-disc list-inside">
+              <li>Made with Spring Boot</li>
+              <li>Uses a Mysql as database and Hibernate as ORM</li>
+              <li>
+                Uses JWT for authentication and authorization using Spring
+                Security
+              </li>
+              <li>Has multiple endpoints and a general error handling </li>
+            </ul>
+          </Card>
+          <Card title="Gym Managment System">
+            A management system for a gym.
+            <h3 className="font-bold">Features:</h3>
+            <ul className="list-disc list-inside">
+              <li>
+                A management system for a gym that allows to register personal
+                data from users, subscribe them to the gym and activities and
+                manage their suscriptions
+              </li>
+              <li>
+                Uses MVC architecture. Made with Java and Swing Framework.{" "}
+              </li>
+              <li>
+                Has a Web API REST made with Spring using a MySQL database.
+              </li>
+            </ul>
+          </Card>
+          <Card title="File Transfer with Replication">
+            A file transfer where you can transfer files to a server
+            <h3 className="font-bold">Features:</h3>
+            <ul className="list-disc list-inside">
+              <li>
+                A file transfer where you can transfer files to a server using
+                TCP and UDP
+              </li>
+              <li>
+                When someone has transferred a file, it is replicated in three
+                servers using Multicast (UDP).
+              </li>
+              <li>
+                Has a UI made with Java Swing and backend made with Java 21.
+              </li>
+            </ul>
+          </Card>
           <Card
             title="Official Website for Seismic Network UAM"
             image={projectsSeismicNetworkImg}
@@ -119,7 +210,6 @@ export default function App() {
               <li>Has a contact section where you can send emails.</li>
             </ul>
           </Card>
-
           <Card
             title="Bank Web App"
             image={projectsWebBank}
@@ -136,7 +226,6 @@ export default function App() {
               <li>It ha s a contact section where you can send emails.</li>
             </ul>
           </Card>
-
           <Card
             title="MyBookmarks"
             url="https://github.com/Unicomet/MyBookmarks"
